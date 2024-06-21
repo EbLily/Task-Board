@@ -25,3 +25,10 @@ WHEN I click the delete button for a task
 THEN the task is removed from the task board and will not be added back after refreshing
 WHEN I refresh the page
 THEN the saved tasks persist
+
+## What Did I learn
+I was able to implement almost every method that I have learned so far for this challenge.
+I was able to use almost whatever I have studied so far, and it was a good practice.
+
+## Challenges
+This challenge was difficult and time consuming. I was lost and wasn't sure where to start .I did rewatch some of the recordings, and read the documentations. Also, combining jQuery with javascript in the challenge made it even harder.
